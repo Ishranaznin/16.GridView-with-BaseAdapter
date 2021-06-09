@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GridView_with_Base_Adapter</string>
+    <string name="title_activity_second">second</string>
+</resources>
